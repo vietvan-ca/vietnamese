@@ -1,5 +1,5 @@
 {
-    "name": "flarum-lang/vietnamese",
+    "name": "vietvan-ca/vietnamese",
     "description": "Vietnamese language pack for Flarum.",
     "type": "flarum-extension",
     "keywords": [
@@ -16,20 +16,19 @@
             "email": "datlechin@gmail.com",
             "role": "Developer",
             "homepage": "https://ngoquocdat.dev"
+        },
+         {
+            "name": "I Wayan Aditya Wiguna",
+            "email": "adityawiguna0@gmail.com",
+            "role": "Developer",
+            "homepage": "https://adityawiguna.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/flarum-lang/vietnamese/issues",
-        "source": "https://github.com/flarum-lang/vietnamese",
+        "issues": "https://github.com/vietvan-ca/vietnamese/issues",
+        "source": "https://github.com/vietvan-ca/vietnamese",
         "forum": "https://discuss.flarum.org/d/28471"
     },
-    "homepage": "https://ngoquocdat.dev",
-    "funding": [
-        {
-            "type": "github",
-            "url": "https://github.com/sponsors/datlechin"
-        }
-    ],
     "require": {
         "flarum/core": "^1.4"
     },
@@ -40,11 +39,6 @@
         "flarum-extension": {
             "title": "Vietnamese",
             "category": "language",
-            "info": {
-                "donate": "https://github.com/sponsors/datlechin",
-                "website": "https://ngoquocdat.dev",
-                "support": "https://discuss.flarum.org/d/28471"
-            },
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
