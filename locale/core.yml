@@ -155,7 +155,7 @@ core:
       categories:
         authentication: 'Xác thực'
         core: 'Cấu hình'
-        discussion: 'Cuộc thảo luận'
+        discussion: 'Thảo luận'
         feature: 'Tính năng'
         formatting: 'Định dạng'
         language: 'Ngôn ngữ'
@@ -198,7 +198,7 @@ core:
       reply_to_discussions_label: 'Trả lời cuộc thảo luận'
       search_users_label: '=> core.ref.search_users'
       sign_up_label: 'Đăng ký'
-      start_discussions_label: 'Tạo cuộc thảo luận'
+      start_discussions_label: 'Tạo Chủ Đề'
       title: Quyền
       view_forum_label: 'Xem diễn đàn (cuộc thảo luận và người dùng)'
       view_hidden_groups_label: 'Xem huy hiệu nhóm bị ẩn'
@@ -319,7 +319,7 @@ core:
       delete_button: '=> core.ref.delete'
       delete_confirmation: 'Bạn có chắc chắn muốn xóa cuộc thảo luận này không?'
       delete_forever_button: '=> core.ref.delete_forever'
-      log_in_to_reply_button: 'Đăng nhập để trả lời'
+      log_in_to_reply_button: 'Trả lời'
       rename_button: '=> core.ref.rename'
       reply_button: '=> core.ref.reply'
       restore_button: '=> core.ref.restore'
@@ -565,7 +565,7 @@ core:
     username:
       deleted_text: '[đã xóa]'
   ref:
-    all_discussions: 'Cuộc thảo luận'
+    all_discussions: 'Thảo luận'
     change_email: 'Đổi email'
     change_password: 'Đổi mật khẩu'
     color: 'Màu sắc'
@@ -578,7 +578,7 @@ core:
     custom_header_title: 'Chỉnh sửa Đầu trang'
     delete: Xóa
     delete_forever: 'Xóa vĩnh viễn'
-    discussions: 'Cuộc thảo luận'
+    discussions: 'Thảo luận'
     edit: 'Chỉnh sửa'
     edit_user: 'Chỉnh sửa người dùng'
     email: Email
@@ -610,7 +610,7 @@ core:
     settings: 'Thiết lập'
     sign_up: 'Đăng ký'
     some_others: '{count, plural, one {# người khác} other {# người khác}}'
-    start_a_discussion: 'Tạo cuộc thảo luận'
+    start_a_discussion: 'Tạo Chủ Đề'
     username: 'Tên tài khoản'
     users: 'Người dùng'
     view: Xem

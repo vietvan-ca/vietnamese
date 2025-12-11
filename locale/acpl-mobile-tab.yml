@@ -4,7 +4,7 @@
 
 acpl-mobile-tab:
   forum:
-    all_discussions: 'Cuộc thảo luận'
+    all_discussions: 'Thảo luận'
     categories: 'Danh mục'
     home: 'Trang chủ'
     log_in: 'Đăng nhập'

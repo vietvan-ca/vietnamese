@@ -14,7 +14,7 @@ clarkwinkelmann-catch-the-fish:
     settings:
       alert-round: 'Hiển thị cảnh báo với tên vòng và thời lượng trên trang chủ'
       animate-flip: 'Lật hình ảnh cá dựa trên hướng'
-      discussion: 'Cuộc thảo luận'
+      discussion: 'Thảo luận'
       discussion-age: 'Các cuộc thảo luận cũ có thể được đặt trên đó như thế nào (ngày)'
       discussion-tags: 'Danh sách trắng Thẻ'
       discussion-tags-help: "Nếu bạn không chọn bất kỳ thẻ nào, bạn có thể chọn bất kỳ cuộc thảo luận nào phù hợp với cài đặt thời gian ở trên. Nếu bất kỳ số lượng thẻ nào được chọn, một cuộc thảo luận cần phải có ít nhất một trong các thẻ đã chọn để được chọn. Xác suất là cơ hội được chọn sau khi tất cả các lựa chọn trước đó đã được thử. Thẻ cuối cùng trong danh sách sẽ luôn hoạt động như một dự phòng, vì vậy hãy đảm bảo rằng thẻ đó có ít nhất một cuộc thảo luận hợp lệ bên trong.\n"

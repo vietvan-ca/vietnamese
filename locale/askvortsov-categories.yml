@@ -38,7 +38,7 @@ askvortsov-categories:
     last_discussion_widget:
       no_discussions: 'Không có cuộc thảo luận nào'
     stat-widgets:
-      discussion_label: 'Cuộc thảo luận'
+      discussion_label: 'Thảo luận'
       post_label: 'Bài viết'
   ref:
     categories: 'Danh mục'
