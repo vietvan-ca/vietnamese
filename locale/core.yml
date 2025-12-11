@@ -363,7 +363,7 @@ core:
       start_discussion_button: '=> core.ref.start_a_discussion'
       toggle_sidenav_dropdown_accessible_label: 'Chuyển đổi menu thả xuống thanh điều hướng'
     index_sort:
-      latest_button: 'Gần đây'
+      latest_button: 'Cập nhật'
       newest_button: 'Mới nhất'
       oldest_button: 'Cũ nhất'
       relevance_button: 'Liên quan'

@@ -45,7 +45,7 @@ clarkwinkelmann-carving-contest:
       refresh: 'Làm mới'
       sort:
         fewerLikes: 'Ít lượt thích nhất'
-        leastRecent: 'Gần đây'
+        leastRecent: 'Cập nhật'
         mostLikes: 'Nhiều lượt thích nhất'
         mostRecent: 'Đăng gần đây'
       title: 'Cuộc thi chạm khắc bí ngô'

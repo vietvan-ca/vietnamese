@@ -15,7 +15,7 @@ datlechin-more-discussions:
       filter_by_label: 'Lọc theo'
       filter_dropdown:
         hot: 'Xu hướng (yêu cầu fof/gamification)'
-        latest: 'Gần đây'
+        latest: 'Cập nhật'
         newest: 'Mới nhất'
         oldest: 'Cũ nhất'
         top: 'Hàng đầu'
