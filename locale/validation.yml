@@ -44,7 +44,7 @@ validation:
   file: 'Trường :attribute phải là một tệp tin.'
   file_too_large: 'Trường :attribeute quá lớn.'
   file_upload_failed: 'Trường :attribute tải lên thất bại.'
-  filled: 'Trường :attribute không được bỏ trống.'
+  filled: 'Không được để trống :attribute.'
   gt:
     array: 'Mảng :attribute phải có nhiều hơn :value phần tử.'
     file: 'Dung lượng tệp tin :attribute phải lớn hơn :value kB.'
@@ -95,7 +95,7 @@ validation:
   prohibited_if: 'Trường :attribute bị cấm khi :other là :value.'
   prohibited_unless: 'Trường :attribute bị cấm trừ khi :other là một trong :values.'
   regex: 'Trường :attribute có định dạng không hợp lệ.'
-  required: 'Trường :attribute không được bỏ trống.'
+  required: 'Không được để trống :attribute.'
   required_array_keys: 'Mảng :attribute phải chứa các mục: :values.'
   required_if: 'Trường :attribute không được bỏ trống khi :other là :value.'
   required_unless: 'Trường :attribute không được bỏ trống trừ khi :other trong :values.'
