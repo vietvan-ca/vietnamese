@@ -296,11 +296,11 @@ core:
       minimize_tooltip: 'Thu nhỏ'
       preview_tooltip: 'Xem trước'
     composer_discussion:
-      body_placeholder: 'Nhập nội dung cho bài viết...'
+      body_placeholder: 'Nhập nội dung'
       discard_confirmation: 'Bạn chưa đăng cuộc thảo luận này. Bạn có muốn huỷ không?'
-      submit_button: 'Đăng cuộc thảo luận'
+      submit_button: 'Đăng'
       title: '=> core.ref.start_a_discussion'
-      title_placeholder: 'Tiêu đề cuộc thảo luận'
+      title_placeholder: 'Chủ đề thảo luận'
     composer_edit:
       discard_confirmation: 'Bạn chưa lưu các thay đổi của mình. Bạn có muốn huỷ không?'
       edited_message: 'Chỉnh sửa của bạn đã được thực hiện.'
