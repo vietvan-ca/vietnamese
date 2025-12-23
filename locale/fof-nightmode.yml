@@ -26,7 +26,7 @@ fof-nightmode:
   forum:
     day: '=> fof-nightmode.ref.light'
     header:
-      nightmode_button: 'Đổi chủ đề'
+      nightmode_button: 'Giao Diện'
     night: '=> fof-nightmode.ref.dark'
     user:
       settings:
