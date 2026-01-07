@@ -576,7 +576,7 @@ core:
     custom_footer_title: 'Chỉnh sửa Chân trang'
     custom_header_text: 'Thêm HTML để hiển thị trên đầu trang.'
     custom_header_title: 'Chỉnh sửa Đầu trang'
-    delete: Xóa
+    delete: Ấn
     delete_forever: 'Xóa vĩnh viễn'
     discussions: 'Thảo luận'
     edit: 'Chỉnh sửa'
@@ -599,7 +599,7 @@ core:
     password: 'Mật khẩu'
     posts: 'Bài viết'
     previous_page: 'Trang trước'
-    remove: Xóa
+    remove: Ấn
     rename: 'Đổi tên'
     reply: 'Trả lời'
     reset_your_password: 'Đặt lại mật khẩu của bạn'
